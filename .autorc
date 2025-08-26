@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "WardenMatthiasStark",
+  "repo": "container-1xs94xw",
+  "name": "WardenMatthiasStark",
+  "email": "22am103@stjosephs.ac.in",
+}
